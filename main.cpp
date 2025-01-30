@@ -68,9 +68,3 @@ using namespace std;
 //     }
 //     return 0;
 // }
-
-int main() {
-    string s; getline(cin, s);
-    int padding = (50-s.length()/2);
-
-}
